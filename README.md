@@ -1,5 +1,5 @@
 
-## Customer Segmentation : Spend and Engagement-Analysis 🛍🛒
+## Customer Behavior and Marketing Optimization Analysis 🛍🛒
  
 <img src="https://github.com/user-attachments/assets/cd265a56-1573-4b55-a00b-bed61e33426b" alt="Yellow and Black Online Shop Business Logo" width="300" height="300">
 
